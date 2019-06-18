@@ -1,7 +1,9 @@
-# a_random_quote_generator-v1
+# Random Quote Generator
+
 The page will display a random quote 
+view it live [here ](https://kevinleemoody.github.io/random_quote_generator/)
 
-view it live here
+# Technology Used
+HTML, CSS and Javascript 
 
-https://kevinleemoody.github.io/random_quote_generator/
 
